@@ -1,0 +1,19 @@
+2025-01-30 07:25:54,870 - INFO - Starting multi-league goalkeeper analysis
+2025-01-30 07:25:54,881 - INFO - Processing 1. Bundesliga
+2025-01-30 07:25:54,883 - INFO - Analyzing season 281
+2025-01-30 07:26:27,701 - INFO - Processing FIFA World Cup
+2025-01-30 07:26:27,709 - INFO - Analyzing season 106
+2025-01-30 07:28:14,334 - INFO - Processing La Liga
+2025-01-30 07:28:14,342 - INFO - Analyzing season 90
+2025-01-30 07:29:10,583 - INFO - Analyzing season 42
+2025-01-30 07:30:03,134 - INFO - Analyzing season 4
+2025-01-30 07:30:52,001 - INFO - Processing Ligue 1
+2025-01-30 07:30:52,003 - INFO - Analyzing season 235
+2025-01-30 07:31:48,761 - INFO - Analyzing season 108
+2025-01-30 07:32:39,522 - INFO - Processing Premier League
+2025-01-30 07:32:39,528 - INFO - Analyzing season 44
+2025-01-30 07:33:30,869 - INFO - Processing Serie A
+2025-01-30 07:33:30,875 - INFO - Analyzing season 27
+2025-01-30 07:43:32,649 - INFO - Processing UEFA Euro
+2025-01-30 07:43:32,651 - INFO - Analyzing season 282
+2025-01-30 07:44:13,362 - INFO - Analysis completed. Results saved to goalkeeper_analysis_consolidated.csv

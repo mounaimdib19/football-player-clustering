@@ -1,0 +1,217 @@
+goalkeeper,team,season_id,cluster_profile,shot_stopping,distribution,sweeping,aerial_command
+Mike Maignan,France,282,Sweeper-Keeper,9.3,8.6,9.6,9.6
+Wojciech Szczęsny,AS Roma,27,Sweeper-Keeper,9.2,9.0,9.3,9.5
+Samir Handanovič,Inter Milan,27,Ball-Playing,9.5,9.4,8.9,8.9
+Gianluigi Buffon,Juventus,27,Shot-Stopper,9.4,9.5,9.1,8.6
+Federico Marchetti,Lazio,27,Sweeper-Keeper,8.8,9.2,9.2,9.0
+Andrea Consigli,Sassuolo,27,Sweeper-Keeper,9.1,8.8,9.0,9.3
+Diogo Meireles Costa,Portugal,282,Complete,7.8,9.6,9.2,9.5
+Angelo Esmael da Costa Júnior,Bologna,27,Ball-Playing,9.5,8.6,9.5,8.5
+Łukasz Skorupski,Empoli,27,Complete,8.1,9.0,9.4,9.5
+Eugenio Lamanna,Genoa,27,Sweeper-Keeper,9.1,8.9,9.1,8.9
+Antonio Mirante,Bologna,27,Sweeper-Keeper,8.9,8.7,9.3,9.1
+Andries Noppert,Netherlands,106,Ball-Playing,9.4,9.4,8.6,8.6
+José Manuel Reina Páez,Napoli,27,Complete,7.9,9.5,9.5,8.9
+Yassine Bounou,Morocco,106,Sweeper-Keeper,8.7,9.1,8.6,9.4
+Fehmi Mert Günok,Turkey,282,Ball-Playing,9.2,8.9,9.3,8.3
+Mattia Perin,Genoa,27,Sweeper-Keeper,9.2,8.6,9.0,8.9
+Lukáš Hrádecký,Bayer Leverkusen,281,Sweeper-Keeper,8.9,8.9,8.9,8.9
+Norberto Murara Neto,Barcelona,90,Sweeper-Keeper,8.9,8.9,8.9,8.9
+Dominik Livaković,Croatia,106,Sweeper-Keeper,8.8,9.4,8.1,9.2
+Etrit Berisha,Lazio,27,Sweeper-Keeper,8.3,9.2,9.0,9.0
+Emiliano Viviano,Sampdoria,27,Ball-Playing,9.2,8.6,9.1,8.6
+Albano Benjamín Bizzarri,Chievo,27,Ball-Playing,9.5,8.4,8.5,9.0
+Diego López Rodríguez,AC Milan,27,Complete,6.9,9.5,9.5,9.5
+Anton Ciprian Tătărușanu,Fiorentina,27,Complete,7.8,9.2,9.3,9.1
+Matthew Charles Turner,United States,106,Ball-Playing,9.4,8.9,9.1,8.0
+Jan Oblak,Slovenia,282,Ball-Playing,9.6,8.6,8.5,8.7
+Jens Lehmann,Arsenal,44,Sweeper-Keeper,8.8,8.8,8.8,8.8
+Marc-André ter Stegen,Barcelona,4,Sweeper-Keeper,8.8,8.8,8.8,8.8
+Kasper Schmeichel,Denmark,282,Shot-Stopper,9.0,9.5,8.2,8.4
+Marco Sportiello,Atalanta,27,Ball-Playing,9.1,8.6,8.8,8.6
+Koen Casteels,Belgium,282,Ball-Playing,9.6,8.9,9.4,7.2
+Manuel Neuer,Germany,282,Shot-Stopper,7.8,9.6,9.2,8.5
+Pierluigi Gollini,Hellas Verona,27,Sweeper-Keeper,8.5,8.4,9.2,8.9
+Stefano Sorrentino,Palermo,27,Sweeper-Keeper,8.5,8.6,8.6,9.3
+Unai Simón Mendibil,Spain,282,Shot-Stopper,8.6,8.7,9.5,8.2
+Mathew Ryan,Australia,106,Shot-Stopper,8.2,8.9,9.4,8.5
+Nicola Leali,Frosinone,27,Sweeper-Keeper,8.6,8.4,9.1,8.9
+Bart Verbruggen,Netherlands,282,Sweeper-Keeper,8.5,9.2,8.3,9.0
+Daniele Padelli,Torino,27,Complete,7.8,9.1,8.8,9.2
+Jordan Pickford,England,282,Sweeper-Keeper,8.6,8.8,8.7,8.8
+Patrick Pentz,Austria,282,Complete,7.4,9.5,9.4,8.5
+Gianluigi Donnarumma,Paris Saint-Germain,235,Sweeper-Keeper,8.7,8.7,8.7,8.7
+Keylor Navas Gamboa,Paris Saint-Germain,108,Sweeper-Keeper,8.7,8.7,8.7,8.7
+Alberto Pelagotti,Empoli,27,Ball-Playing,9.5,9.0,8.8,7.4
+Yann Sommer,Switzerland,282,Shot-Stopper,7.8,9.4,8.8,8.5
+Rafael de Andrade Bittencourt Pinheiro,Hellas Verona,27,Sweeper-Keeper,7.9,8.5,8.6,9.5
+Martin Dúbravka,Slovakia,282,Complete,7.4,7.7,9.6,9.6
+Morgan De Sanctis,AS Roma,27,Complete,6.9,8.4,9.5,9.5
+Vid Belec,Carpi,27,Sweeper-Keeper,8.3,7.8,8.7,9.3
+Orestis Karnezis,Udinese,27,Sweeper-Keeper,8.4,8.3,8.5,8.8
+Seung-Gyu Kim,South Korea,106,Complete,7.6,9.0,8.5,8.7
+Florin Constantin Niţă,Romania,282,Sweeper-Keeper,7.9,8.1,8.7,9.1
+Damián Emiliano Martínez,Argentina,106,Sweeper-Keeper,8.2,8.6,8.2,8.5
+Edouard Mendy,Senegal,106,Complete,6.5,9.3,9.4,8.2
+Shūichi Gonda,Japan,106,Sweeper-Keeper,7.5,8.2,8.3,9.4
+Hugo Lloris,France,106,Sweeper-Keeper,8.1,8.5,8.3,8.4
+Giorgi Mamardashvili,Georgia,282,Sweeper-Keeper,8.3,7.7,8.2,9.0
+Željko Brkić,Carpi,27,Sweeper-Keeper,7.7,7.4,8.6,9.1
+Gregor Kobel,Borussia Dortmund,281,Ball-Playing,8.9,8.4,6.9,8.5
+Noah Atubolu,Freiburg,281,Complete,7.3,8.6,7.9,8.9
+Alisson Ramsés Becker,Brazil,106,Complete,5.7,8.5,8.9,9.4
+Mohammed Khalil Al Owais,Saudi Arabia,106,Sweeper-Keeper,7.8,7.3,9.1,8.2
+Edwin van der Sar,Fulham,44,Ball-Playing,8.8,7.7,8.6,7.2
+Alexander Nübel,VfB Stuttgart,281,Sweeper-Keeper,7.8,8.0,8.0,8.5
+Jussi Jääskeläinen,Bolton Wanderers,44,Complete,6.4,8.0,8.8,8.8
+Shay Given,Newcastle United,44,Shot-Stopper,7.5,8.4,8.2,7.8
+Massimo Zenildo Zappino,Frosinone,27,Complete,6.5,8.2,8.7,8.5
+Aymen Dahmen,Tunisia,106,Ball-Playing,8.4,7.8,7.4,8.1
+Anthony Lopes,Lyon,235,Ball-Playing,8.6,8.3,6.7,8.0
+Francisco Guillermo Ochoa Magaña,Mexico,106,Sweeper-Keeper,7.2,8.3,7.4,8.6
+Marco Bizot,Stade Brestois,235,Ball-Playing,8.1,7.6,8.2,7.5
+Gerónimo Rulli,Real Sociedad,4,Complete,6.2,7.8,8.6,8.8
+Jasper Cillessen,Barcelona,4,Shot-Stopper,6.8,8.8,7.9,7.6
+Pau López Sabata,Real Betis,4,Shot-Stopper,7.8,8.4,7.4,7.5
+Andrea Seculin,Chievo,27,Ball-Playing,9.0,7.1,7.3,7.6
+Paul Bernardoni,Angers,235,Complete,6.3,7.2,8.7,8.7
+Steve Mandanda,Rennes,235,Ball-Playing,8.7,7.7,7.5,6.9
+Iván Cuéllar Sacristán,Leganés,42,Complete,6.4,7.7,8.9,7.8
+Rui Tiago Dantas da Silva,Granada,42,Ball-Playing,8.9,7.5,7.0,7.2
+Sergio Asenjo Andrés,Villarreal,4,Complete,6.2,8.4,8.8,7.2
+Alejandro Remiro Gargallo,Real Sociedad,42,Shot-Stopper,7.9,8.9,7.2,6.5
+Sergio Rochet Álvarez,Uruguay,106,Complete,6.8,7.6,8.2,7.8
+Janis Blaswich,RB Leipzig,281,Complete,5.2,8.9,8.8,7.5
+Kasey Keller,Tottenham Hotspur,44,Shot-Stopper,7.1,8.4,8.1,6.8
+Ian Walker,Leicester City,44,Shot-Stopper,7.3,8.4,7.8,6.7
+Predrag Rajković,Serbia,282,Sweeper-Keeper,7.6,7.1,7.5,8.0
+Vanja Milinković Savić,Serbia,106,Sweeper-Keeper,7.0,7.8,7.7,7.7
+Oliver Baumann,Hoffenheim,281,Shot-Stopper,7.0,8.7,6.6,7.9
+Fernando Pacheco Flores,Deportivo Alavés,4,Ball-Playing,8.1,7.3,7.6,7.1
+Thibaut Courtois,Belgium,106,Shot-Stopper,7.9,8.3,7.8,6.0
+Péter Gulácsi,Hungary,282,Complete,5.6,7.7,8.2,8.5
+Angus Gunn,Scotland,282,Complete,6.6,6.9,8.8,7.6
+Francesco Benussi,Carpi,27,Sweeper-Keeper,7.5,7.4,7.3,7.7
+Salvador Ichazo Fernández,Torino,27,Shot-Stopper,6.7,7.9,7.6,7.5
+Walter Daniel Benítez,OGC Nice,108,Ball-Playing,8.5,6.6,7.0,7.6
+Brad Friedel,Blackburn Rovers,44,Shot-Stopper,7.5,7.7,7.6,6.9
+Shaka Hislop,Portsmouth,44,Ball-Playing,8.8,7.0,7.3,6.5
+Dean Kiely,Charlton Athletic,44,Shot-Stopper,6.8,8.8,7.1,6.7
+Thomas Løvendahl Sørensen,Aston Villa,44,Shot-Stopper,7.0,8.3,7.3,6.7
+Jordi Masip López,Real Valladolid,42,Sweeper-Keeper,6.9,7.1,7.2,8.1
+Jerzy Dudek,Liverpool,44,Complete,6.0,8.5,7.1,7.4
+Alban Lafont,Nantes,108,Ball-Playing,7.7,6.5,7.0,7.7
+Antti Mikko Niemi,Southampton,44,Sweeper-Keeper,6.5,7.0,7.8,7.6
+Frederik Rønnow,Union Berlin,281,Shot-Stopper,7.3,7.8,6.8,7.0
+Rubén Blanco Veiga,Celta Vigo,42,Complete,5.4,7.8,6.8,8.9
+Kevin Trapp,Eintracht Frankfurt,281,Complete,5.5,8.2,7.2,7.9
+Jean-Louis Leca,Lens,108,Ball-Playing,8.4,6.6,7.2,6.5
+Michael Zetterer,Werder Bremen,281,Complete,5.2,8.4,7.1,8.0
+Thomas Strakosha,Albania,282,Sweeper-Keeper,7.0,7.4,7.1,7.2
+Lawrence Ati-Zigi,Ghana,106,Complete,5.8,7.9,7.6,7.4
+Maxime Dupé,Toulouse,235,Shot-Stopper,6.8,7.7,7.3,6.7
+Kevin Müller,FC Heidenheim,281,Complete,6.1,7.7,7.1,7.5
+Manuel Riemann,Bochum,281,Shot-Stopper,6.1,7.3,8.9,6.1
+David Soria Solís,Getafe,90,Sweeper-Keeper,6.7,5.9,7.0,8.7
+Aitor Fernández Abarisketa,Levante UD,90,Sweeper-Keeper,7.2,6.6,7.8,6.7
+Milan Borjan,Canada,106,Complete,5.1,7.9,7.8,7.5
+Marvin Schwäbe,FC Köln,281,Shot-Stopper,6.3,7.9,7.1,6.9
+Mark Schwarzer,Middlesbrough,44,Complete,5.9,7.9,7.1,7.3
+Marko Dmitrović,Eibar,42,Complete,5.6,7.6,7.7,7.2
+Iván Villar Martínez,Celta Vigo,90,Sweeper-Keeper,6.8,6.3,6.6,8.4
+Marcel Schuhen,Darmstadt 98,281,Shot-Stopper,6.3,7.7,7.3,6.5
+Jeremías Ledesma,Cádiz,90,Ball-Playing,8.1,5.3,6.7,7.5
+Paul Robinson,Leeds United,44,Shot-Stopper,5.4,8.3,7.9,5.9
+Robin Zentner,FSV Mainz 05,281,Complete,5.1,7.0,7.4,7.8
+Manuel Reina Rodríguez,Mallorca,42,Shot-Stopper,5.9,8.1,7.1,6.1
+Jindřich Staněk,Czech Republic,282,Sweeper-Keeper,6.9,6.4,6.3,7.6
+Tomáš Vaclík,Sevilla,4,Shot-Stopper,5.9,7.6,7.1,6.5
+Mory Diaw,Clermont Foot,235,Shot-Stopper,6.5,7.5,7.2,5.8
+Sergio Herrera Pirón,Osasuna,90,Sweeper-Keeper,6.2,6.4,7.1,7.0
+Ivo Grbić,Lille,108,Sweeper-Keeper,6.4,6.5,6.7,7.0
+Iago Herrerín Buisán,Athletic Club,4,Ball-Playing,7.8,5.5,5.3,7.6
+Hernán Ismael Galíndez,Ecuador,106,Complete,5.0,6.6,7.0,7.4
+Anatolii Trubin,Ukraine,282,Sweeper-Keeper,6.6,5.7,6.5,6.8
+Roy Carroll,Manchester United,44,Ball-Playing,6.8,6.0,6.1,6.0
+Devis Rogers Epassy Mboka,Cameroon,106,Ball-Playing,6.4,6.3,6.0,6.0
+Gianluca Pegolo,Sassuolo,27,Ball-Playing,6.6,5.9,5.7,6.3
+Nigel Martyn,Everton,44,Sweeper-Keeper,6.2,6.2,6.2,5.9
+Yehvann Diouf,Stade de Reims,235,Ball-Playing,6.7,6.4,5.4,5.9
+Richard Wright,Everton,44,Sweeper-Keeper,6.1,6.1,6.3,5.9
+Jessy Moulin,Troyes,108,Sweeper-Keeper,6.3,5.8,5.8,6.4
+Álvaro Fernández Llorente,Huesca,90,Ball-Playing,6.5,5.9,6.3,5.6
+Etienne Green,Saint-Étienne,108,Sweeper-Keeper,6.2,5.7,5.9,6.3
+Paul Nardi,Lorient,108,Ball-Playing,6.7,5.6,5.7,6.0
+Benjamin Lecomte,Montpellier,235,Ball-Playing,6.5,6.0,5.4,6.1
+Finn Dahmen,Augsburg,281,Ball-Playing,6.6,5.7,6.0,5.6
+Marc-Aurèle Caillard,Metz,108,Sweeper-Keeper,6.0,5.6,6.2,6.0
+Matz Sels,Strasbourg,108,Sweeper-Keeper,5.6,6.0,5.9,6.3
+David Seaman,Manchester City,44,Shot-Stopper,5.4,6.3,6.2,5.9
+Gaëtan Poussin,Bordeaux,108,Sweeper-Keeper,5.3,6.0,6.1,6.3
+Alfred Benjamin Gomis,Rennes,108,Sweeper-Keeper,5.7,5.8,6.0,6.2
+Ian Bennett,Birmingham City,44,Ball-Playing,7.1,5.5,5.5,5.5
+Doğan Alemdar,Rennes,108,Sweeper-Keeper,5.7,5.8,5.9,6.2
+Tim Howard,Manchester United,44,Ball-Playing,7.0,6.2,5.2,5.2
+Wayne Hennessey,Wales,106,Complete,4.6,6.3,5.7,7.0
+Jaume Doménech Sánchez,Valencia,42,Ball-Playing,7.0,5.6,5.5,5.5
+Yvon Landry Mvogo,Lorient,235,Ball-Playing,6.6,5.5,5.3,6.0
+Carlo Cudicini,Chelsea,44,Sweeper-Keeper,6.0,6.3,5.4,5.7
+Sven Ulreich,Bayern Munich,281,Sweeper-Keeper,5.8,5.2,5.3,7.1
+Gauthier Gallon,Troyes,235,Sweeper-Keeper,5.7,5.7,5.8,6.1
+Meshaal Aissa Barsham,Qatar,106,Complete,4.9,5.9,5.8,6.6
+David James,Manchester City,44,Ball-Playing,7.0,5.2,5.3,5.7
+Lucas Chevalier,Lille,235,Shot-Stopper,5.6,6.0,6.0,5.6
+Benjamin Leroy,AC Ajaccio,235,Sweeper-Keeper,6.0,5.9,5.4,5.9
+Arthur Desmas,Clermont Foot,108,Sweeper-Keeper,5.5,5.7,5.7,6.2
+Seyed Hossein Hosseini,Iran,106,Ball-Playing,6.1,5.5,5.7,5.8
+Oier Olazábal Paredes,Levante UD,4,Shot-Stopper,5.2,5.9,6.7,5.2
+Matthieu Dreyer,Lorient,108,Sweeper-Keeper,5.4,5.7,5.7,6.2
+Matěj Kovář,Bayer Leverkusen,281,Ball-Playing,6.3,6.1,5.3,5.1
+Dimitry Bertaud,Montpellier,108,Sweeper-Keeper,5.6,5.7,5.7,5.8
+Moritz Nicolas,Borussia Mönchengladbach,281,Ball-Playing,6.7,5.6,5.1,5.3
+Ionuț Andrei Radu,Auxerre,235,Sweeper-Keeper,5.5,5.7,5.9,5.6
+Paul Jones,Wolverhampton Wanderers,44,Shot-Stopper,5.3,6.3,5.5,5.5
+Asier Riesgo Unamuno,Eibar,4,Sweeper-Keeper,5.3,5.8,5.6,5.8
+Joel Robles Blázquez,Real Betis,42,Shot-Stopper,5.2,5.8,6.4,5.1
+Neil Sullivan,Chelsea,44,Shot-Stopper,5.4,6.4,5.3,5.4
+Fabrizio Alastra,Palermo,27,Shot-Stopper,5.0,6.1,5.6,5.5
+Benoît Guy Robert Costil,Auxerre,235,Sweeper-Keeper,5.3,5.6,5.7,5.6
+François-Joseph Sollacaro,AC Ajaccio,235,Sweeper-Keeper,5.5,5.3,5.5,5.8
+Brice Samba,Lens,235,Sweeper-Keeper,5.5,5.8,5.3,5.5
+Juan Pablo Carrizo,Inter Milan,27,Complete,4.5,5.8,6.0,5.8
+Stole Dimitrievski,Rayo Vallecano,4,Sweeper-Keeper,5.7,5.7,5.2,5.4
+Jonas Omlin,Borussia Mönchengladbach,281,Shot-Stopper,5.5,5.8,5.3,5.2
+Francesco Bardi,Frosinone,27,Ball-Playing,6.3,4.8,5.0,5.7
+Claudio Andrés Bravo Muñoz,Real Betis,90,Sweeper-Keeper,5.4,5.1,5.6,5.6
+Pavao Pervan,Wolfsburg,281,Sweeper-Keeper,5.7,5.1,5.3,5.6
+Leonardo Cesar Jardim,Lille,235,Sweeper-Keeper,5.3,5.4,5.6,5.4
+Michael Oakes,Wolverhampton Wanderers,44,Sweeper-Keeper,5.5,5.3,5.3,5.5
+Axel Werner,Huesca,4,Sweeper-Keeper,5.3,5.7,5.2,5.4
+Sergio Rico González,Paris Saint-Germain,108,Ball-Playing,5.7,5.3,5.3,5.3
+Tomáš Koubek,Augsburg,281,Ball-Playing,5.8,5.5,5.1,5.1
+Aarón Escandell Banacloche,Granada,90,Ball-Playing,6.1,5.1,5.1,5.1
+Edgar Badía Guardiola,Elche,90,Sweeper-Keeper,5.5,5.3,5.2,5.4
+Alexandre Letellier,Paris Saint-Germain,108,Sweeper-Keeper,5.4,5.3,5.3,5.3
+Maik Taylor,Birmingham City,44,Sweeper-Keeper,5.2,5.3,5.2,5.5
+Munir Mohand Mohamedi,Morocco,106,Ball-Playing,5.9,4.7,5.3,5.2
+Roberto Jiménez Gago,Deportivo Alavés,42,Sweeper-Keeper,5.1,5.4,5.2,5.1
+Danny Coyne,Leicester City,44,Sweeper-Keeper,5.2,5.2,5.2,5.2
+Alireza Safar Beiranvand,Iran,106,Sweeper-Keeper,5.4,5.0,4.7,5.6
+Simone Colombi,Carpi,27,Ball-Playing,5.6,4.8,4.6,5.5
+Ferdinando Coppola,Hellas Verona,27,Ball-Playing,6.0,4.9,4.6,4.7
+Luca Lezzerini,Fiorentina,27,Sweeper-Keeper,4.6,5.0,5.5,5.1
+Josip Posavec,Palermo,27,Ball-Playing,5.9,4.7,4.5,5.1
+Boris Radunović,Atalanta,27,Ball-Playing,5.6,4.9,4.6,5.0
+André Onana,Cameroon,106,Ball-Playing,5.8,4.7,4.9,4.6
+David Raya Martin,Spain,282,Ball-Playing,5.8,4.7,4.4,4.9
+Maurizio Pugliesi,Empoli,27,Ball-Playing,5.5,4.8,5.0,4.5
+Davide Bassi,Atalanta,27,Sweeper-Keeper,5.1,4.6,5.0,5.0
+Ederson Santana de Moraes,Brazil,106,Sweeper-Keeper,4.7,5.1,4.6,5.0
+Gabriel Vasconelos Ferreira,Napoli,27,Shot-Stopper,4.8,5.4,4.6,4.5
+Christian Abbiati,AC Milan,27,Ball-Playing,5.6,4.5,4.5,4.6
+Danny Ward,Wales,106,Ball-Playing,5.1,4.6,4.7,4.6
+Saad Abdullah Al Sheeb,Qatar,106,Sweeper-Keeper,4.6,4.7,4.8,4.7
+Alberto Brignoli,Sampdoria,27,Sweeper-Keeper,4.5,4.5,4.5,5.1
+Andriy Lunin,Ukraine,282,Sweeper-Keeper,4.4,4.6,4.6,4.8
+Weverton Pereira da Silva,Brazil,106,Sweeper-Keeper,4.6,4.6,4.6,4.6
+Altay Bayındır,Turkey,282,Sweeper-Keeper,4.6,4.6,4.4,4.4
