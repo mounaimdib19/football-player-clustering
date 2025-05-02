@@ -1,5 +1,7 @@
 # Football Player Profiling and Classification Project
 
+# Data Mining Project
+
 ## Project Overview
 This project aims to categorize football (soccer) players into distinct positional profiles using clustering techniques based on performance metrics. The goal is to aid in tactical decision-making, player development, and team strategy by identifying player roles and strengths.
 
