@@ -1,0 +1,586 @@
+fullback,team,season_id,Cluster_Label,overlap_inversion,final_third_entries,defensive_performance,ball_progression,chance_creation
+Senad Lulić,Lazio,27,Defensive Specialist,9.3,8.6,9.0,8.9,9.3
+Michel Morganella,Palermo,27,Complete Fullback,8.3,9.0,9.3,9.2,9.3
+Silvan Widmer,Udinese,27,Defensive Specialist,8.4,8.1,9.3,9.3,9.3
+Patrice Evra,Juventus,27,Complete Fullback,9.2,8.3,9.3,9.0,8.5
+Mohamed Salim Fares,Hellas Verona,27,Progressive Playmaker,9.3,8.5,9.3,8.6,8.6
+Ali Adnan Kadhim Al Tameemi,Udinese,27,Progressive Playmaker,9.3,8.4,9.3,8.5,8.8
+Diego Sebastián Laxalt Suárez,Genoa,27,Attacking Wing-Back,9.1,8.7,7.9,9.3,9.2
+Gaetano Letizia,Carpi,27,Defensive Specialist,8.7,8.1,9.3,8.7,9.3
+Jacopo Sala,Hellas Verona,27,Complete Fullback,8.4,8.3,9.3,9.3,8.7
+Achraf Lazaar,Palermo,27,Progressive Playmaker,9.3,8.7,8.4,8.6,8.9
+Alessandro Florenzi,AS Roma,27,Attacking Wing-Back,8.5,9.0,7.9,9.2,9.3
+Maicon Douglas Sisenando,AS Roma,27,Attacking Wing-Back,8.4,9.0,8.7,8.8,9.0
+Ignazio Abate,AC Milan,27,Complete Fullback,8.5,8.6,9.3,9.2,8.3
+Edenílson Andrade dos Santos,Udinese,27,Attacking Wing-Back,8.8,9.3,7.8,8.7,9.3
+Theo Bernard François Hernández,France,106,Attacking Wing-Back,8.8,8.8,8.8,8.8,8.4
+Mário Rui Silva Duarte,Empoli,27,Progressive Playmaker,9.3,8.6,8.9,8.1,8.7
+Alex Nicolao Telles,Inter Milan,27,Progressive Playmaker,9.2,8.5,7.8,9.1,8.9
+Héctor Junior Firpo Adames,Barcelona,42,Attacking Wing-Back,8.7,8.7,8.7,8.7,8.7
+Fabrizio Cacciatore,Chievo,27,Attacking Wing-Back,8.6,8.8,8.7,8.9,8.5
+Joshua Kimmich,Germany,282,Complete Fullback,8.6,8.4,8.8,8.8,8.8
+Andrea Rispoli,Palermo,27,Attacking Wing-Back,8.4,9.2,7.2,9.3,9.3
+Federico Peluso,Sassuolo,27,Attacking Wing-Back,9.2,9.1,7.9,9.3,7.8
+Ştefan Daniel Radu,Lazio,27,Attacking Wing-Back,9.2,9.3,7.0,9.2,8.3
+Nélson Cabral Semedo,Barcelona,4,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.6
+Nuno Mendes,Paris Saint-Germain,108,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.6
+Josip Stanišić,Bayer Leverkusen,281,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.6
+Massimo Gobbi,Chievo,27,Progressive Playmaker,9.3,8.2,8.1,8.7,8.7
+Kolo Habib Touré,Arsenal,44,Attacking Wing-Back,8.6,8.5,8.6,8.6,8.7
+Sergi Roberto Carnicer,Barcelona,4,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.6
+Jordi Alba Ramos,Barcelona,4,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.6
+Achraf Hakimi Mouh,Paris Saint-Germain,108,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.6
+Ashley Cole,Arsenal,44,Attacking Wing-Back,8.7,8.7,8.7,8.7,8.1
+Boukary Dramé,Atalanta,27,Attacking Wing-Back,9.2,8.8,8.8,8.8,7.3
+Djamel Eddine Mesbah,Sampdoria,27,Progressive Playmaker,9.2,9.3,7.6,8.6,8.2
+Mattia De Sciglio,AC Milan,27,Attacking Wing-Back,8.9,9.0,7.7,8.7,8.6
+Luca Antonelli,AC Milan,27,Attacking Wing-Back,9.2,8.9,8.9,8.7,7.2
+João Pedro Cavaco Cancelo,Portugal,106,Attacking Wing-Back,8.7,8.3,8.6,8.8,8.5
+Daniel Carvajal Ramos,Spain,282,Attacking Wing-Back,8.5,8.8,8.0,8.8,8.8
+Pedro Miguel Almeida Lopes Pereira,Sampdoria,27,Attacking Wing-Back,8.6,9.3,7.7,9.3,8.0
+Nathan Aké,Netherlands,282,Attacking Wing-Back,8.8,8.8,8.8,8.8,7.6
+Daniel Pavlovic,Frosinone,27,Progressive Playmaker,9.2,8.1,7.9,8.3,9.3
+Jules Koundé,France,106,Attacking Wing-Back,8.8,8.8,8.8,8.8,7.6
+Eros Pisano,Hellas Verona,27,Defensive Specialist,8.5,7.9,8.5,8.6,9.3
+Andrei Florin Ratiu,Romania,282,Attacking Wing-Back,8.7,8.8,8.8,8.8,7.7
+Mattia Cassani,Sampdoria,27,Attacking Wing-Back,8.5,9.2,7.9,9.3,7.9
+Marc Cucurella Saseta,Spain,282,Attacking Wing-Back,8.8,8.8,8.0,8.8,8.4
+Laureano Bisan-Etame Mayer,Arsenal,44,Attacking Wing-Back,8.7,8.7,7.9,8.7,8.7
+Elseid Hysaj,Napoli,27,Attacking Wing-Back,8.5,9.3,8.9,8.7,7.3
+Gaël Clichy,Arsenal,44,Attacking Wing-Back,8.7,8.7,8.7,8.7,7.9
+Riccardo Gagliolo,Carpi,27,Progressive Playmaker,9.1,8.1,8.4,8.3,8.8
+Antonio Rüdiger,AS Roma,27,Attacking Wing-Back,8.7,9.3,9.1,8.8,6.8
+Odilon Kossonou,Bayer Leverkusen,281,Attacking Wing-Back,8.5,8.6,8.6,8.6,8.4
+Faouzi Ghoulam,Napoli,27,Attacking Wing-Back,9.2,9.3,7.6,8.9,7.6
+Aljaž Struna,Palermo,27,Attacking Wing-Back,8.4,8.6,7.4,9.2,9.0
+Luke Shaw,England,106,Progressive Playmaker,8.8,8.8,7.7,8.5,8.7
+Vasco Regini,Sampdoria,27,Attacking Wing-Back,9.1,9.1,8.4,9.2,6.7
+Ricardo Iván Rodríguez Araya,Switzerland,106,Progressive Playmaker,8.8,8.8,7.7,8.4,8.8
+Óscar Mingueza García,Barcelona,90,Attacking Wing-Back,8.6,8.6,8.6,8.6,8.1
+Nahuel Molina Lucero,Argentina,106,Attacking Wing-Back,8.8,8.8,8.1,8.8,7.9
+Sergino Dest,Barcelona,90,Progressive Playmaker,8.6,8.6,8.6,7.9,8.6
+Alex Ferrari,Bologna,27,Attacking Wing-Back,8.5,8.6,8.6,8.9,7.7
+Davide Santon,Inter Milan,27,Attacking Wing-Back,8.5,8.7,7.9,9.0,8.2
+Adam Masina,Bologna,27,Progressive Playmaker,9.2,8.3,8.2,8.3,8.3
+Alejandro Grimaldo García,Bayer Leverkusen,281,Attacking Wing-Back,8.6,8.6,7.9,8.6,8.6
+Andrea Masiello,Atalanta,27,Complete Fullback,8.4,8.3,8.8,8.7,8.0
+Juan Bernat Velasco,Paris Saint-Germain,108,Attacking Wing-Back,8.6,8.6,7.8,8.6,8.6
+Marcos Alonso Mendoza,Fiorentina,27,Progressive Playmaker,9.3,7.7,7.6,8.5,9.1
+Matteo Ciofani,Frosinone,27,Attacking Wing-Back,8.4,8.7,7.8,9.2,8.0
+Davide Brivio,Atalanta,27,Attacking Wing-Back,9.2,8.7,7.5,9.3,7.3
+Cristian Daniel Ansaldi,Genoa,27,Progressive Playmaker,8.9,8.4,7.3,8.8,8.6
+Danilo D''Ambrosio,Inter Milan,27,Complete Fullback,8.6,8.4,8.9,8.6,7.5
+Josip Juranović,Croatia,106,Progressive Playmaker,8.8,8.8,7.1,8.5,8.8
+Gabriel Moisés Antunes da Silva,Carpi,27,Progressive Playmaker,9.2,7.9,7.2,8.6,9.1
+Stephan Lichtsteiner,Juventus,27,Attacking Wing-Back,8.5,8.8,8.1,8.5,8.1
+Manuel Pasqual,Fiorentina,27,Progressive Playmaker,9.3,8.2,8.4,7.2,8.8
+Yuto Nagatomo,Inter Milan,27,Attacking Wing-Back,8.8,8.6,8.1,9.0,7.4
+Aleandro Rosi,Frosinone,27,Attacking Wing-Back,8.4,8.3,7.7,8.9,8.6
+Gianpaolo Bellini,Atalanta,27,Attacking Wing-Back,8.7,9.3,7.6,9.3,7.0
+Ibrahima Mbaye,Bologna,27,Attacking Wing-Back,8.6,8.7,8.4,9.2,6.8
+Saud Abdullah Abdul Hamid,Saudi Arabia,106,Attacking Wing-Back,8.4,8.6,7.1,8.8,8.8
+Ferdi Erenay Kadıoğlu,Turkey,282,Progressive Playmaker,8.8,7.9,8.1,7.9,8.8
+Šime Vrsaljko,Sassuolo,27,Attacking Wing-Back,8.4,8.7,7.5,8.5,8.3
+Samuel Souprayen,Hellas Verona,27,Progressive Playmaker,9.3,7.8,8.0,7.8,8.5
+Iván Rodrigo Piris Leguizamón,Udinese,27,Complete Fullback,8.6,8.4,9.3,7.8,7.3
+Nenad Tomović,Fiorentina,27,Attacking Wing-Back,8.5,8.6,8.8,8.5,6.9
+Lucas Digne,AS Roma,27,Progressive Playmaker,9.2,8.5,7.5,7.9,8.2
+Facundo Sebastián Roncaglia,Fiorentina,27,Attacking Wing-Back,8.6,8.7,8.8,8.6,6.6
+Maximilian Mittelstädt,Germany,282,Progressive Playmaker,8.8,8.2,7.9,7.6,8.8
+Juan Guilherme Nunes Jesus,Inter Milan,27,Progressive Playmaker,9.2,7.8,8.0,8.5,7.7
+Danilo Luiz da Silva,Brazil,106,Attacking Wing-Back,8.4,8.8,7.5,8.7,7.8
+Michelangelo Albertazzi,Hellas Verona,27,Progressive Playmaker,9.3,7.9,7.0,8.2,8.7
+Marcello Gazzola,Sassuolo,27,Attacking Wing-Back,8.6,8.7,7.0,9.3,7.5
+Roberto Crivello,Frosinone,27,Progressive Playmaker,9.2,7.9,7.6,8.5,7.8
+Nicolás Alejandro Tagliafico,Argentina,106,Progressive Playmaker,8.8,7.6,8.8,7.7,8.1
+Moon-Hwan Kim,South Korea,106,Complete Fullback,8.0,8.2,8.7,8.5,7.6
+Cristian Zaccardo,Carpi,27,Progressive Playmaker,8.6,8.1,8.0,7.7,8.6
+Christian Maggio,Napoli,27,Attacking Wing-Back,8.4,8.7,7.8,8.4,7.6
+Abdoulay Konko,Lazio,27,Progressive Playmaker,8.7,7.8,8.4,7.9,8.1
+Dušan Basta,Lazio,27,Complete Fullback,8.5,8.3,8.6,7.9,7.6
+Thilo Kehrer,Paris Saint-Germain,108,Progressive Playmaker,8.6,8.6,8.5,7.0,8.1
+Vincent Laurini,Empoli,27,Attacking Wing-Back,8.4,8.6,8.0,8.8,6.9
+Alistair Johnston,Canada,106,Attacking Wing-Back,7.9,8.5,7.6,8.6,8.1
+Edson Braafheid,Lazio,27,Complete Fullback,8.3,8.5,8.7,7.6,7.5
+Vassilis Torosidis,AS Roma,27,Attacking Wing-Back,8.7,8.7,6.6,9.0,7.6
+Éder Gabriel Militão,Brazil,106,Complete Fullback,7.8,8.5,8.8,8.1,7.4
+Marco Zambelli,Empoli,27,Attacking Wing-Back,8.5,8.2,7.9,8.2,7.7
+Bartosz Bereszyński,Poland,106,Complete Fullback,8.2,7.7,8.8,8.6,7.2
+Fabrizio Poli,Carpi,27,Progressive Playmaker,8.9,8.0,7.8,7.5,8.1
+Marcos Javier Acuña,Argentina,106,Attacking Wing-Back,8.3,7.6,6.7,8.8,8.8
+Armando Izzo,Genoa,27,Complete Fullback,8.7,7.2,9.3,7.4,7.5
+Ngoran Suiru Fai Collins,Cameroon,106,Complete Fullback,7.9,8.0,8.4,8.0,7.8
+Patricio Gabarrón Gil,Lazio,27,Attacking Wing-Back,8.4,9.3,7.0,8.4,7.0
+Denzel Dumfries,Netherlands,282,Defensive Specialist,8.5,7.2,8.8,7.1,8.4
+Raphaël Adelino José Guerreiro,Portugal,106,Progressive Playmaker,8.8,7.9,6.0,8.8,8.4
+Antonee Robinson,United States,106,Progressive Playmaker,8.6,7.7,7.2,8.3,8.0
+Youssouf Sabaly,Senegal,106,Attacking Wing-Back,8.1,7.5,7.9,8.2,8.0
+Urby Emanuelson,Hellas Verona,27,Attacking Wing-Back,8.2,8.5,6.7,9.0,7.3
+Lorenzo De Silvestri,Sampdoria,27,Progressive Playmaker,8.5,8.1,7.4,8.0,7.7
+Luca Rossettini,Bologna,27,Progressive Playmaker,8.5,7.5,8.3,7.1,8.2
+Nicolas Sebastian Frey,Chievo,27,Progressive Playmaker,8.4,8.1,6.2,8.0,8.7
+Ivan Perišić,Croatia,106,Defensive Specialist,8.8,6.6,8.8,6.4,8.8
+Nouhou Tolo,Cameroon,106,Progressive Playmaker,8.5,8.4,7.6,7.7,7.2
+Aziz Eraltay Behich,Australia,106,Progressive Playmaker,8.7,7.9,8.8,7.3,6.7
+José Diogo Dalot Teixeira,Portugal,106,Attacking Wing-Back,7.7,7.9,7.7,7.8,8.2
+Kyle Walker,England,282,Complete Fullback,7.9,7.7,8.4,8.1,7.1
+Andrea Conti,Atalanta,27,Progressive Playmaker,8.4,8.3,7.6,7.5,7.4
+David Raum,Germany,106,Defensive Specialist,8.2,7.3,7.1,7.6,8.8
+Archimede Morleo,Bologna,27,Progressive Playmaker,8.6,6.9,7.5,7.5,8.5
+Abdul Rahman Baba,Ghana,106,Defensive Specialist,7.5,6.8,8.8,7.1,8.7
+Guillermo Varela Olivera,Uruguay,106,Complete Fullback,7.1,7.8,8.4,7.7,7.9
+Stefan Posch,Austria,282,Defensive Specialist,7.9,7.5,7.9,7.1,8.2
+Luca Bittante,Empoli,27,Progressive Playmaker,8.3,7.4,7.1,7.8,8.0
+Jin-Su Kim,South Korea,106,Progressive Playmaker,8.1,7.5,6.9,7.2,8.8
+Presnel Kimpembe,Paris Saint-Germain,108,Complete Fullback,7.5,7.6,8.0,8.1,7.3
+Martín Montoya Torralbo,Inter Milan,27,Attacking Wing-Back,7.4,7.8,7.2,8.4,7.6
+Birger Meling,Rennes,108,Defensive Specialist,7.2,7.0,8.6,7.3,8.3
+Matty Cash,Poland,106,Progressive Playmaker,7.9,7.3,7.4,7.5,8.0
+Piero Martín Hincapié Reyna,Bayer Leverkusen,281,Progressive Playmaker,8.6,8.0,6.8,7.7,7.0
+José Ángel Valdés Díaz,Eibar,4,Defensive Specialist,8.0,7.0,7.4,6.9,8.6
+Dávid Hancko,Slovakia,282,Progressive Playmaker,8.3,7.4,7.1,6.9,8.1
+Nicușor Silviu Bancu,Romania,282,Progressive Playmaker,8.2,7.5,6.8,7.7,7.5
+Ivan Strinić,Napoli,27,Complete Fullback,7.8,8.1,8.4,7.0,6.4
+Houboulang Mendes,Lorient,108,Attacking Wing-Back,6.9,7.8,7.7,7.7,7.6
+John Arne Semundseth Riise,Liverpool,44,Defensive Specialist,7.2,7.0,8.7,6.2,8.6
+Omar Haktab Traorè,FC Heidenheim,281,Attacking Wing-Back,7.3,7.2,7.2,8.2,7.8
+Giuseppe Pezzella,Palermo,27,Attacking Wing-Back,7.9,7.3,6.7,8.1,7.7
+Alejandro Moreno Lopera,Real Betis,90,Complete Fullback,7.3,7.1,8.0,8.4,6.8
+Julian Ryerson,Borussia Dortmund,281,Complete Fullback,7.7,8.2,8.1,6.7,6.9
+Marius Wolf,Borussia Dortmund,281,Defensive Specialist,6.9,6.8,8.5,7.4,8.0
+Borna Sosa,Croatia,106,Progressive Playmaker,8.2,7.4,7.6,6.9,7.5
+Cristian Raimondi,Atalanta,27,Attacking Wing-Back,7.9,7.9,7.5,7.5,6.6
+Eduardo Camavinga,France,106,Attacking Wing-Back,7.3,7.9,7.4,8.0,6.8
+Bafodé Diakité,Lille,235,Attacking Wing-Back,7.0,8.0,7.5,8.3,6.4
+Ramin Rezaeian,Iran,106,Defensive Specialist,7.0,7.1,7.9,6.9,8.3
+Mohamed Youssouf,AC Ajaccio,235,Attacking Wing-Back,7.3,7.9,7.7,7.5,6.7
+Cristiano Piccini,Valencia,4,Complete Fullback,7.2,7.9,8.2,7.4,6.4
+Simone Padoin,Juventus,27,Attacking Wing-Back,7.3,7.7,6.7,8.5,6.8
+Ignacio Vidal Miralles,Osasuna,90,Defensive Specialist,6.8,6.4,8.4,7.4,7.9
+Hamari Traoré,Rennes,108,Defensive Specialist,7.0,7.1,7.8,7.1,7.9
+Ben Davies,Wales,106,Progressive Playmaker,8.2,7.6,7.0,7.4,6.7
+Ridle Bote Baku,Wolfsburg,281,Defensive Specialist,7.3,6.6,8.1,6.3,8.6
+Vincent Le Goff,Lorient,108,Complete Fullback,7.2,6.6,8.5,7.0,7.4
+Mario Mitaj,Albania,282,Progressive Playmaker,8.3,8.2,7.0,7.0,6.1
+Matthias Bader,Darmstadt 98,281,Complete Fullback,7.4,6.6,8.1,7.0,7.3
+Oleksandr Zinchenko,Ukraine,282,Complete Fullback,7.3,6.9,8.0,6.9,7.2
+José Luis Gayà Peña,Valencia,90,Defensive Specialist,7.0,6.1,8.2,7.2,7.6
+Rasmus Carstensen,FC Köln,281,Defensive Specialist,7.3,6.1,7.4,8.0,7.2
+Alex Sandro Lobo Silva,Brazil,106,Attacking Wing-Back,7.4,7.7,6.7,7.5,6.7
+Michael Tarnat,Manchester City,44,Defensive Specialist,7.2,6.4,7.3,6.3,8.7
+Emerson Aparecido Leite de Souza Junior,Real Betis,90,Complete Fullback,6.9,6.6,8.1,7.5,6.8
+Emir Karic,Darmstadt 98,281,Attacking Wing-Back,7.3,7.1,7.4,7.4,6.7
+Ander Capa Rodríguez,Athletic Club,90,Complete Fullback,6.8,6.9,8.0,7.9,6.3
+Gary Alexis Medel Soto,Inter Milan,27,Attacking Wing-Back,6.8,7.5,7.7,7.6,6.0
+Jonas Föhrenbach,FC Heidenheim,281,Progressive Playmaker,7.8,6.5,6.8,6.8,7.5
+Ismail Jakobs,Senegal,106,Defensive Specialist,7.4,6.5,7.1,6.8,7.5
+Jorge Miramón Santagertrudis,Levante UD,42,Complete Fullback,6.4,7.3,8.7,6.7,6.2
+Lee Naylor,Wolverhampton Wanderers,44,Defensive Specialist,7.0,6.5,7.2,6.3,8.3
+Giovanni Pasquale,Udinese,27,Defensive Specialist,6.9,6.1,7.4,6.5,8.1
+Timothy Weah,Lille,235,Defensive Specialist,6.5,6.5,7.7,6.7,7.6
+Mathías Olivera Miramontes,Uruguay,106,Progressive Playmaker,7.3,7.4,6.5,6.2,7.6
+Ferland Mendy,Real Madrid,90,Progressive Playmaker,7.3,7.3,7.1,6.4,6.9
+Joseba Zaldúa Bengoetxea,Real Sociedad,4,Attacking Wing-Back,7.3,6.3,7.1,8.1,6.2
+Peter Pekarík,Slovakia,282,Progressive Playmaker,8.0,6.4,6.4,7.0,7.1
+Iago Amaral Borduchi,Augsburg,281,Progressive Playmaker,7.7,6.9,7.0,6.3,6.9
+Ismaily Gonçalves dos Santos,Lille,235,Complete Fullback,6.4,6.9,7.9,6.7,6.8
+Thomas Foket,Stade de Reims,235,Complete Fullback,6.3,6.9,8.2,6.4,6.9
+Erik Janža,Slovenia,282,Defensive Specialist,7.3,6.0,7.3,6.5,7.5
+Yahia Attiyat allah,Morocco,106,Defensive Specialist,7.4,6.2,6.9,6.8,7.3
+Jesús Daniel Gallardo Vasconcelos,Mexico,106,Complete Fullback,7.4,6.1,8.0,6.2,6.8
+Maximilian Wittek,Bochum,281,Defensive Specialist,6.5,6.8,6.2,6.8,8.2
+Gary Oliver Kelly,Leeds United,44,Defensive Specialist,6.6,6.4,6.7,6.6,8.2
+Giovanni Di Lorenzo,Italy,282,Complete Fullback,6.9,6.8,7.1,6.9,6.7
+Miloš Degenek,Australia,106,Defensive Specialist,6.8,6.4,7.1,6.7,7.4
+José Rodolfo Pires Ribeiro,Sampdoria,27,Progressive Playmaker,7.9,7.4,6.1,5.6,7.4
+Pervis Josué Estupiñán Tenorio,Villarreal,90,Attacking Wing-Back,6.7,6.6,6.3,7.5,7.1
+Mehmet Zeki Çelik,Lille,108,Defensive Specialist,6.9,6.3,6.9,6.5,7.6
+Nuno Albertino Varela Tavares,Marseille,235,Complete Fullback,6.4,6.9,7.4,6.7,6.7
+Noussair Mazraoui,Morocco,106,Attacking Wing-Back,7.1,6.9,6.4,7.9,5.8
+Rubén Duarte Sánchez,Deportivo Alavés,4,Progressive Playmaker,7.7,7.0,6.3,6.7,6.4
+Marcos Aoás Corrêa,Paris Saint-Germain,235,Complete Fullback,6.4,6.5,8.1,7.2,5.9
+Max Finkgräfe,FC Köln,281,Complete Fullback,6.4,6.3,7.2,7.7,6.4
+Filipe Luís Kasmirski,Atlético Madrid,4,Complete Fullback,7.2,6.5,7.5,6.4,6.4
+Jihai Sun,Manchester City,44,Defensive Specialist,6.7,6.4,6.8,6.3,7.8
+Roberto Vitiello,Palermo,27,Progressive Playmaker,7.2,7.2,5.8,6.5,7.2
+Mert Müldür,Turkey,282,Attacking Wing-Back,6.8,7.4,6.1,6.6,6.9
+Danilo Luís Hélio Pereira,Paris Saint-Germain,108,Progressive Playmaker,7.1,7.8,6.2,6.1,6.6
+Alphonso Davies,Bayern Munich,281,Attacking Wing-Back,6.5,6.9,6.6,7.1,6.6
+Vitorino Gabriel Pacheco Antunes,Getafe,4,Defensive Specialist,6.3,6.0,7.6,6.5,7.2
+José Luis Morales Nogales,Levante UD,4,Attacking Wing-Back,6.1,6.9,6.3,7.5,6.8
+Bernardo Fernandes da Silva Junior,Bochum,281,Progressive Playmaker,7.0,6.6,6.4,6.5,7.0
+Abdou Diallo,Paris Saint-Germain,108,Progressive Playmaker,7.2,7.5,5.9,6.2,6.7
+Alexander Prass,Austria,282,Progressive Playmaker,7.1,6.3,6.2,6.4,7.5
+Bruno Miguel Borges Fernandes,Portugal,106,Defensive Specialist,6.0,6.4,7.0,6.5,7.5
+Alfonso Pedraza Sag,Villarreal,4,Complete Fullback,6.3,6.4,7.5,7.2,6.0
+Jeremie Frimpong,Bayer Leverkusen,281,Defensive Specialist,6.2,6.3,5.4,7.5,8.0
+Mihailo Ristić,Montpellier,108,Defensive Specialist,6.3,6.0,7.9,6.0,7.1
+Žan Karničnik,Slovenia,282,Complete Fullback,6.9,6.4,7.2,6.2,6.6
+Matteo Bianchetti,Hellas Verona,27,Complete Fullback,6.8,6.4,8.3,6.0,5.8
+Abdoulaye Bamba,Angers,235,Attacking Wing-Back,6.3,7.0,6.8,7.2,6.0
+Jonathan Ludovic Biabiany,Inter Milan,27,Defensive Specialist,6.7,5.5,6.4,6.4,8.2
+Joan Sastre Vanrell,Mallorca,42,Complete Fullback,6.4,6.2,7.7,6.3,6.6
+Riccardo Fiamozzi,Genoa,27,Attacking Wing-Back,6.9,6.8,5.7,7.9,5.9
+Connor Roberts,Wales,106,Attacking Wing-Back,6.7,6.1,6.1,7.4,6.9
+César Azpilicueta Tanco,Spain,106,Attacking Wing-Back,6.5,7.6,5.2,7.5,6.3
+Théo Sainte-Luce,Montpellier,235,Complete Fullback,6.3,6.8,7.2,7.1,5.7
+Dennis Appiah,Nantes,235,Defensive Specialist,6.5,6.2,7.5,5.6,7.3
+Kiliann Sildillia,Freiburg,281,Complete Fullback,6.3,6.5,7.2,6.4,6.6
+Kieran Trippier,England,282,Progressive Playmaker,6.9,6.2,6.0,6.8,7.1
+Mads Pedersen,Augsburg,281,Attacking Wing-Back,6.3,6.1,6.6,7.8,6.2
+Benjamin Henrichs,RB Leipzig,281,Defensive Specialist,6.5,6.5,6.2,6.5,7.2
+Noah Fadiga,Stade Brestois,235,Attacking Wing-Back,6.3,6.8,7.0,7.1,5.7
+Francisco Gámez López,Mallorca,42,Complete Fullback,6.1,6.8,7.4,6.3,6.3
+Jonathan Clauss,Marseille,235,Progressive Playmaker,6.7,7.0,5.5,6.5,7.2
+Sergio Reguilón Rodríguez,Real Madrid,4,Attacking Wing-Back,6.3,6.8,6.4,6.5,6.8
+Aarón Martín Caricol,Celta Vigo,90,Complete Fullback,6.2,6.5,7.2,7.2,5.7
+Wayne Bridge,Chelsea,44,Progressive Playmaker,7.0,6.4,5.9,6.4,7.1
+Lucas Vázquez Iglesias,Real Madrid,90,Attacking Wing-Back,6.1,6.5,6.5,7.2,6.5
+Luis Carlos Correia Pinto,Huesca,4,Complete Fullback,6.3,6.9,8.5,5.4,5.6
+Yuri Berchiche Izeta,Athletic Club,90,Attacking Wing-Back,6.6,6.8,5.6,7.2,6.5
+Leart Paqarada,FC Köln,281,Attacking Wing-Back,6.7,6.6,5.4,6.9,7.1
+Javier Galán Gil,Huesca,90,Complete Fullback,6.2,6.3,7.5,6.7,6.0
+Rubén Peña Jiménez,Eibar,4,Complete Fullback,6.0,6.1,7.4,6.2,6.9
+Daniel Alves da Silva,Brazil,106,Attacking Wing-Back,6.4,6.8,5.9,6.8,6.7
+Mario Gaspar Pérez Martínez,Villarreal,90,Complete Fullback,6.1,6.2,8.1,5.8,6.4
+Martín Aguirregabiria Padilla,Deportivo Alavés,42,Attacking Wing-Back,6.5,6.7,6.3,6.9,6.2
+Thibault De Smet,Stade de Reims,235,Attacking Wing-Back,6.5,6.6,6.3,6.9,6.3
+Jean-Kevin Duverne,Stade Brestois,235,Attacking Wing-Back,6.5,6.8,6.5,6.6,6.1
+Thomas Teye Partey,Atlético Madrid,4,Complete Fullback,6.1,6.5,6.8,6.6,6.5
+Manuel Sánchez De La Peña,Osasuna,90,Attacking Wing-Back,6.2,6.4,6.5,7.0,6.4
+Lukas Kübler,Freiburg,281,Attacking Wing-Back,6.5,6.8,5.4,7.3,6.5
+Antonio Manuel Luna Rodríguez,Levante UD,4,Complete Fullback,6.2,6.8,8.0,5.4,6.1
+Jorge Andújar Moreno,Levante UD,4,Attacking Wing-Back,6.3,6.7,6.4,6.5,6.5
+Nordi Mukiele Mulere,Paris Saint-Germain,235,Complete Fullback,6.3,7.0,6.9,5.5,6.7
+Milad Mohammadi,Iran,106,Progressive Playmaker,6.9,6.6,6.7,6.1,6.1
+Andoni Gorosabel Espinosa,Real Sociedad,90,Complete Fullback,6.0,5.4,8.1,6.2,6.6
+Vivaldo Borges dos Santos Neto,Clermont Foot,235,Defensive Specialist,6.5,5.5,7.6,5.9,6.8
+Timothee Pembele,Paris Saint-Germain,235,Progressive Playmaker,7.0,6.7,6.8,5.5,6.3
+Dídac Vilá Rosselló,Espanyol,4,Complete Fullback,6.3,6.4,6.6,6.4,6.6
+Bukayo Saka,England,282,Defensive Specialist,6.3,6.7,6.1,6.1,7.1
+Diogo José Rosário Gomes Figueiras,Genoa,27,Attacking Wing-Back,6.6,6.3,5.8,7.0,6.5
+Gary Naysmith,Everton,44,Defensive Specialist,6.2,6.0,5.9,5.9,8.2
+Damián Nicolás Suárez Suárez,Getafe,90,Defensive Specialist,6.1,6.2,6.5,6.3,7.1
+Jesús Navas González,Spain,282,Progressive Playmaker,6.6,6.8,5.7,5.7,7.4
+Antonio Latorre Grueso,Valencia,4,Complete Fullback,6.2,6.7,7.9,6.0,5.4
+Warren Zaire Emery,Paris Saint-Germain,235,Defensive Specialist,7.1,5.5,7.0,5.5,7.0
+Valery Fernández Estrada,Girona,4,Attacking Wing-Back,6.3,6.9,6.4,5.9,6.6
+Luis Jan Piers Advíncula Castrillón,Rayo Vallecano,4,Attacking Wing-Back,6.0,6.8,6.4,6.8,6.1
+Fabien Centonze,Nantes,235,Complete Fullback,6.4,6.1,7.3,6.4,5.9
+Akim Zedadka,Clermont Foot,108,Attacking Wing-Back,6.1,6.6,6.2,6.5,6.6
+Leonidas Stergiou,VfB Stuttgart,281,Attacking Wing-Back,6.4,6.3,5.5,7.3,6.5
+Gonzalo Ariel Montiel,Argentina,106,Attacking Wing-Back,6.3,6.8,5.5,6.8,6.6
+Gabriel Gudmundsson,Lille,108,Complete Fullback,6.2,5.4,7.0,7.0,6.3
+Malo Gusto,Lyon,108,Attacking Wing-Back,6.1,6.4,6.2,6.6,6.5
+Mikel Balenziaga Oruesagasti,Athletic Club,4,Complete Fullback,6.2,6.1,7.7,6.4,5.4
+Nicolas Louis Marcel Cozza,Montpellier,235,Attacking Wing-Back,6.4,6.7,6.1,7.1,5.5
+Falaye Sacko,Saint-Étienne,108,Defensive Specialist,6.1,6.0,6.7,5.9,7.1
+Jorge Pulido Mayoral,Huesca,4,Attacking Wing-Back,6.0,6.8,6.1,6.8,6.0
+Lucas René Olaza Catrofe,Celta Vigo,90,Attacking Wing-Back,6.2,6.5,6.6,6.4,6.0
+Adrián Marín Gómez,Deportivo Alavés,42,Attacking Wing-Back,5.7,6.5,6.2,6.7,6.6
+Borna Barišić,Croatia,106,Progressive Playmaker,6.6,6.4,5.9,6.1,6.6
+Lucas Silva Melo,Eintracht Frankfurt,281,Attacking Wing-Back,6.3,6.4,6.2,6.7,6.0
+Sacha Boey,Bayern Munich,281,Attacking Wing-Back,6.3,6.6,5.4,7.5,5.8
+Melvin Bard,OGC Nice,108,Attacking Wing-Back,6.3,6.6,5.4,6.5,6.7
+Santiago Arias Naranjo,Atlético Madrid,4,Progressive Playmaker,6.6,6.7,5.4,6.2,6.6
+Simon Charlton,Bolton Wanderers,44,Defensive Specialist,5.8,6.1,6.3,5.8,7.5
+Gary Neville,Manchester United,44,Complete Fullback,5.6,6.2,7.0,6.2,6.5
+Reinildo Isnard Mandava,Lille,108,Complete Fullback,6.3,6.0,6.7,6.2,6.3
+Alejandro Balde Martínez,Spain,106,Attacking Wing-Back,6.5,6.5,6.2,6.6,5.7
+Jordan Stewart,Leicester City,44,Complete Fullback,5.8,5.7,7.8,5.6,6.6
+Sergio Escudero Palomo,Sevilla,90,Complete Fullback,6.3,5.9,7.3,6.0,6.0
+Jeison Fabián Murillo Cerón,Inter Milan,27,Attacking Wing-Back,6.6,6.8,6.1,6.7,5.2
+Flavius Daniliuc,OGC Nice,108,Attacking Wing-Back,6.0,6.4,6.3,6.7,6.0
+Pedro Antonio Porro Sauceda,Girona,4,Complete Fullback,6.0,6.1,6.5,6.5,6.3
+Timothée Kolodziejczak,Saint-Étienne,108,Defensive Specialist,6.3,5.9,6.3,5.8,7.1
+Stephen Crainey,Southampton,44,Defensive Specialist,5.8,5.8,6.5,6.0,7.3
+Cristian Gamboa Luna,Bochum,281,Attacking Wing-Back,6.2,6.1,6.2,6.7,6.1
+Ali Albulayhi,Saudi Arabia,106,Progressive Playmaker,6.7,6.6,6.4,5.7,5.9
+Marvin Friedrich,Borussia Mönchengladbach,281,Attacking Wing-Back,6.4,6.5,6.1,6.7,5.6
+Dimitri Foulquier,Granada,42,Complete Fullback,5.6,6.4,7.2,6.8,5.3
+Youssouf Koné,AC Ajaccio,235,Attacking Wing-Back,6.2,6.6,6.1,6.3,6.0
+Paweł Wszołek,Hellas Verona,27,Defensive Specialist,5.7,5.7,5.5,6.9,7.4
+Neco Williams,Wales,106,Attacking Wing-Back,6.5,6.1,5.7,6.5,6.4
+Ervin Zukanović,Sampdoria,27,Progressive Playmaker,6.7,6.9,4.7,6.4,6.5
+Souleyman Doumbia,Angers,235,Progressive Playmaker,6.5,6.3,6.2,5.6,6.5
+Fabio Daprelà,Palermo,27,Complete Fullback,6.2,6.1,6.6,6.2,6.0
+Joseph Scally,Borussia Mönchengladbach,281,Defensive Specialist,6.4,5.7,6.3,6.1,6.6
+Hugo Mallo Novegil,Celta Vigo,90,Defensive Specialist,6.0,5.6,6.4,6.2,6.9
+Djibril Sidibé,AS Monaco,108,Defensive Specialist,6.1,6.0,6.4,6.1,6.5
+Óscar de Marcos Arana,Athletic Club,4,Attacking Wing-Back,6.0,6.4,6.3,6.6,5.8
+Gennaro Sardo,Chievo,27,Attacking Wing-Back,6.3,6.4,5.4,6.5,6.5
+Antonio García Aranda,Levante UD,42,Complete Fullback,5.6,6.0,7.3,6.3,5.8
+Marcelo Vieira da Silva Júnior,Real Madrid,42,Defensive Specialist,5.7,6.2,6.1,6.0,7.0
+Víctor David Díaz Miguel,Granada,42,Complete Fullback,5.4,6.2,7.4,5.9,6.1
+Thomas Heurtaux,Udinese,27,Progressive Playmaker,6.5,7.3,5.4,5.6,6.2
+Fabián Ruiz Peña,Paris Saint-Germain,235,Complete Fullback,5.9,6.3,6.3,6.1,6.4
+Angelo Smit Preciado Quiñónez,Ecuador,106,Defensive Specialist,6.0,6.0,5.9,6.3,6.8
+Allan Romeo Nyom,Getafe,42,Complete Fullback,5.5,5.8,8.0,5.9,5.8
+Davide Calabria,AC Milan,27,Defensive Specialist,6.1,5.4,6.5,5.6,7.3
+Alberto Moreno Pérez,Villarreal,42,Attacking Wing-Back,5.7,6.4,6.0,6.3,6.5
+Otar Kakabadze,Georgia,282,Complete Fullback,6.0,5.7,7.0,5.9,6.2
+Nathaniel Atkinson,Australia,106,Complete Fullback,5.9,6.1,7.3,6.2,5.3
+Juan Marcos Foyth,Villarreal,90,Attacking Wing-Back,6.1,6.4,5.4,6.9,6.0
+Pablo Ezequiel De Blasis,Eibar,4,Attacking Wing-Back,6.0,6.5,5.4,6.4,6.5
+Ignacio Monreal Eraso,Real Sociedad,42,Attacking Wing-Back,5.7,6.4,6.2,6.0,6.4
+Alessandro Pistone,Everton,44,Defensive Specialist,5.6,5.7,6.1,6.0,7.3
+Konrad Laimer,Bayern Munich,281,Progressive Playmaker,6.3,6.7,6.3,5.5,5.9
+Gilberto Moraes Junior,Hellas Verona,27,Complete Fullback,5.9,6.0,6.7,6.2,5.9
+Ismaël Chester Diallo,AC Ajaccio,235,Attacking Wing-Back,6.3,6.4,6.2,6.2,5.6
+José Ignacio Martínez García,Real Valladolid,4,Defensive Specialist,6.3,5.8,6.2,5.8,6.5
+Saúl Ñíguez Esclapez,Atlético Madrid,42,Complete Fullback,5.6,5.9,6.3,6.5,6.3
+Mohamed Simakan,RB Leipzig,281,Attacking Wing-Back,6.1,6.1,6.1,6.4,5.9
+Niels Nkounkou,Eintracht Frankfurt,281,Complete Fullback,6.2,5.9,6.4,6.2,5.9
+Aihen Muñoz Capellán,Real Sociedad,4,Complete Fullback,6.3,6.1,6.6,6.0,5.6
+Matteo Darmian,Italy,282,Complete Fullback,6.0,6.1,6.9,6.2,5.4
+Niklas Süle,Germany,106,Attacking Wing-Back,6.1,6.7,5.2,6.8,5.7
+Arial Benabent Mendy,Clermont Foot,108,Defensive Specialist,6.3,6.0,6.4,5.4,6.4
+Lucas Neill,Blackburn Rovers,44,Defensive Specialist,5.8,6.0,6.2,5.9,6.6
+René Salomon Olembé-Olembé,Leeds United,44,Defensive Specialist,5.8,6.0,5.9,6.0,6.8
+Fali Candé,Metz,108,Defensive Specialist,6.3,5.4,6.0,5.7,7.1
+Tomás Eduardo Rincón Hernández,Genoa,27,Complete Fullback,5.7,6.3,6.6,6.2,5.7
+Carlos Mario Carbonero Mancilla,Sampdoria,27,Complete Fullback,5.7,6.3,6.8,6.0,5.7
+Philipp Mwene,Austria,282,Progressive Playmaker,6.3,5.9,5.2,6.1,6.9
+Hermann Hreidarsson,Charlton Athletic,44,Complete Fullback,5.9,6.0,6.2,6.1,6.2
+Ángel Martín Correa,Atlético Madrid,4,Complete Fullback,5.6,6.4,6.6,6.2,5.6
+José Ignacio Fernández Iglesias,Spain,282,Attacking Wing-Back,6.0,6.5,5.7,6.6,5.6
+Álvaro Tejero Sacristán,Eibar,42,Attacking Wing-Back,5.3,6.3,5.3,6.7,6.8
+Josha Mamadou Karaboue Vagnoman,VfB Stuttgart,281,Complete Fullback,6.2,5.4,7.1,5.5,6.2
+Moussa Wagué,Barcelona,42,Complete Fullback,5.5,5.8,6.5,6.5,6.1
+Enzo Gianni Tchato Mbiayi,Montpellier,235,Attacking Wing-Back,6.3,6.1,6.3,6.0,5.7
+Hiroki Sakai,Japan,106,Complete Fullback,5.8,6.2,6.2,6.0,6.1
+Alidu Seidu,Ghana,106,Attacking Wing-Back,6.1,6.5,5.8,6.1,5.8
+Kevin Mbabu,Augsburg,281,Complete Fullback,6.3,5.4,6.6,6.4,5.6
+Alejandro Pozo Pozo,Mallorca,42,Defensive Specialist,5.4,5.8,6.3,6.2,6.6
+Kevin Paredes,Wolfsburg,281,Progressive Playmaker,6.4,5.8,6.3,5.9,5.8
+Carlos Martín Vigaray,Deportivo Alavés,4,Complete Fullback,6.0,5.4,6.6,6.3,5.9
+Luan Peres Petroni,Marseille,108,Attacking Wing-Back,6.3,6.1,6.2,6.0,5.6
+Tariq Lamptey,Ghana,106,Complete Fullback,6.1,5.8,6.6,5.5,6.2
+Alberto Rodríguez Baró,Deportivo Alavés,90,Attacking Wing-Back,6.1,6.3,5.4,6.7,5.7
+Luca Cigarini,Atalanta,27,Complete Fullback,5.7,5.0,7.3,5.9,6.3
+Dylan Daniel Mahmoud Bronn,Metz,108,Attacking Wing-Back,6.1,6.1,6.3,6.3,5.4
+Franck Queudrue,Middlesbrough,44,Defensive Specialist,5.8,5.6,6.6,5.7,6.5
+Oleksandr Tymchyk,Ukraine,282,Defensive Specialist,6.1,5.4,6.5,6.0,6.2
+Jorge Eduardo Sánchez Ramos,Mexico,106,Attacking Wing-Back,6.0,6.5,5.2,6.5,6.0
+Ben Thatcher,Leicester City,44,Defensive Specialist,5.9,5.3,6.3,5.6,7.0
+Jamie Carragher,Liverpool,44,Complete Fullback,5.6,5.8,6.5,6.0,6.2
+Jean-Charles Castelletto,Nantes,235,Attacking Wing-Back,6.0,6.3,5.5,6.4,5.9
+Mauricio Taricco,Tottenham Hotspur,44,Attacking Wing-Back,5.9,6.1,5.9,6.2,6.0
+Javier López Rodríguez,Espanyol,4,Defensive Specialist,6.1,5.4,6.0,6.4,6.2
+Alessandro Frara,Frosinone,27,Complete Fullback,5.9,5.3,6.5,6.2,6.1
+Ian Harte,Leeds United,44,Complete Fullback,5.7,6.0,6.4,5.8,6.1
+Róbert Mazáň,Celta Vigo,4,Defensive Specialist,6.3,5.4,6.3,6.0,6.0
+Gerson Santos da Silva,Marseille,108,Defensive Specialist,6.3,5.4,6.3,5.4,6.6
+Sultan Abdullah Salim Al Ghannam,Saudi Arabia,106,Defensive Specialist,6.2,5.7,5.2,5.9,7.0
+Lutsharel Geertruida,Netherlands,282,Attacking Wing-Back,6.0,6.3,5.9,6.0,5.8
+Simon Davies,Tottenham Hotspur,44,Defensive Specialist,5.7,5.8,5.9,5.5,7.0
+Siniša Anđelković,Palermo,27,Attacking Wing-Back,6.3,5.4,6.3,7.2,4.7
+Danny Higginbotham,Southampton,44,Complete Fullback,5.8,5.5,6.8,5.8,6.0
+Axel Disasi,France,106,Attacking Wing-Back,6.2,6.1,5.6,6.1,5.9
+Frank Mohammed Sinclair,Leicester City,44,Complete Fullback,5.6,5.9,6.7,5.8,5.9
+Ethan Ampadu,Wales,106,Defensive Specialist,6.1,5.2,6.3,5.9,6.4
+Thomas Vermaelen,Barcelona,4,Attacking Wing-Back,5.9,6.6,5.9,6.1,5.4
+Markus Babbel,Blackburn Rovers,44,Complete Fullback,5.5,5.6,6.9,5.6,6.3
+Valentin Rongier,Marseille,108,Attacking Wing-Back,6.0,6.2,6.0,5.9,5.8
+Moussa Diarra,Toulouse,235,Attacking Wing-Back,6.2,5.5,5.5,6.8,5.9
+Fábio Pereira da Silva,Nantes,108,Attacking Wing-Back,5.8,6.1,5.9,6.0,6.0
+Arnaud Souquet,Montpellier,108,Defensive Specialist,5.9,6.1,6.0,5.5,6.3
+Przemysław Frankowski,Poland,282,Defensive Specialist,6.0,5.6,5.8,6.0,6.4
+Maximilian Wöber,Sevilla,4,Complete Fullback,5.7,6.0,6.1,6.0,6.0
+Cristian Molinaro,Torino,27,Complete Fullback,5.7,6.2,6.5,6.0,5.4
+Nicky Hunt,Bolton Wanderers,44,Attacking Wing-Back,5.6,6.0,5.9,6.0,6.3
+Pablo Hervías Ruiz,Real Valladolid,90,Attacking Wing-Back,6.1,5.9,5.4,6.3,6.1
+Mario Melchiot,Chelsea,44,Defensive Specialist,5.6,6.0,6.0,5.9,6.3
+Lukas Klostermann,Germany,106,Attacking Wing-Back,5.8,6.1,5.6,6.4,5.9
+Thierry Rendall Correia,Valencia,90,Complete Fullback,6.0,5.4,6.8,5.5,6.1
+Thomas Meunier,Belgium,106,Attacking Wing-Back,5.8,6.5,5.7,5.5,6.3
+Xavier Quintillà Guasch,Villarreal,42,Complete Fullback,5.6,6.0,6.7,5.6,5.8
+Edimilson Fernandes,Switzerland,106,Progressive Playmaker,6.4,6.2,5.4,5.5,6.2
+Joško Gvardiol,Croatia,282,Attacking Wing-Back,6.1,6.4,6.0,5.9,5.3
+Ehsan Hajsafi,Iran,106,Attacking Wing-Back,5.9,6.0,5.8,6.0,5.9
+Steve Finnan,Liverpool,44,Attacking Wing-Back,5.6,6.0,6.1,6.2,5.7
+Federico Mattiello,Chievo,27,Defensive Specialist,5.5,5.7,6.0,6.0,6.4
+Federico Barba,Real Valladolid,42,Complete Fullback,5.6,5.9,6.3,5.9,5.9
+Gideon Mensah,Ghana,106,Attacking Wing-Back,6.1,6.2,5.7,5.8,5.8
+Jamie Clapham,Birmingham City,44,Attacking Wing-Back,5.8,6.0,5.8,6.4,5.6
+Glen Johnson,Chelsea,44,Attacking Wing-Back,5.6,6.0,5.9,5.9,6.2
+José Antonio Rodríguez Díaz,Granada,90,Defensive Specialist,6.1,5.4,5.4,5.9,6.8
+Kevin Vázquez Comesaña,Celta Vigo,90,Complete Fullback,6.0,5.8,6.3,6.0,5.5
+Marco Parolo,Lazio,27,Defensive Specialist,5.6,5.4,5.7,5.9,6.9
+Sébastien Schemmel,Portsmouth,44,Complete Fullback,5.6,5.7,6.6,5.5,6.1
+Miguel Ángel Trauco Saavedra,Saint-Étienne,108,Progressive Playmaker,6.3,5.4,5.9,5.9,6.0
+Yasir Gharsan Al Shahrani,Saudi Arabia,106,Defensive Specialist,6.2,5.6,6.0,5.4,6.3
+Mikkel Desler,Toulouse,235,Complete Fullback,5.6,5.8,6.6,5.9,5.6
+Javier Moyano Lujano,Real Valladolid,42,Complete Fullback,5.4,5.6,6.1,6.2,6.2
+Miki Yamane,Japan,106,Defensive Specialist,5.6,5.9,5.8,5.8,6.4
+Jakub Piotr Kiwior,Poland,282,Attacking Wing-Back,6.1,5.8,5.9,6.1,5.5
+Philippe Coutinho Correia,Barcelona,4,Attacking Wing-Back,5.5,6.2,5.4,6.2,6.1
+John O''Shea,Manchester United,44,Defensive Specialist,5.9,5.4,6.1,5.5,6.5
+Mohammed Al Burayk,Saudi Arabia,106,Attacking Wing-Back,5.8,6.1,5.6,5.9,6.0
+Yvann Macon,Saint-Étienne,108,Defensive Specialist,6.1,5.4,6.2,5.4,6.3
+Stefano Sabelli,Carpi,27,Defensive Specialist,5.5,5.7,5.7,5.8,6.7
+Alan Wright,Middlesbrough,44,Attacking Wing-Back,5.8,6.0,5.9,5.7,6.0
+Denis Irwin,Wolverhampton Wanderers,44,Defensive Specialist,5.6,5.7,5.9,5.6,6.6
+Sam Adekugbe,Canada,106,Attacking Wing-Back,6.0,6.1,5.2,6.1,6.0
+Tony Hibbert,Everton,44,Attacking Wing-Back,5.6,6.1,5.5,6.2,5.9
+Timothy Castagne,Belgium,282,Attacking Wing-Back,6.0,5.8,5.2,6.0,6.3
+Iván Balliu Campeny,Albania,282,Attacking Wing-Back,5.9,6.0,5.9,5.9,5.6
+Micky van de Ven,Netherlands,282,Progressive Playmaker,6.0,5.8,5.7,5.7,6.1
+Pablo Paulino Rosario,OGC Nice,235,Complete Fullback,5.5,5.9,6.0,5.9,6.0
+Antonio Candreva,Lazio,27,Defensive Specialist,5.7,5.8,4.7,6.0,7.1
+Damien Johnson,Birmingham City,44,Attacking Wing-Back,5.6,6.2,5.7,6.4,5.3
+Darren Kenton,Southampton,44,Complete Fullback,6.0,5.4,6.3,5.6,5.9
+Bilal Brahimi,OGC Nice,235,Defensive Specialist,5.6,5.5,5.8,6.0,6.3
+Oleg Luzhny,Wolverhampton Wanderers,44,Attacking Wing-Back,5.6,6.3,5.9,5.8,5.6
+Nelson Sissoko,Saint-Étienne,108,Attacking Wing-Back,5.7,6.1,5.9,6.1,5.4
+Néstor Alejandro Araújo Razo,Mexico,106,Attacking Wing-Back,6.0,5.7,5.6,6.2,5.7
+Stephen Kelly,Tottenham Hotspur,44,Attacking Wing-Back,5.4,6.0,5.9,5.9,5.9
+Bryan Oviedo,Costa Rica,106,Attacking Wing-Back,6.0,5.7,5.7,6.1,5.6
+Andy Impey,Leicester City,44,Defensive Specialist,5.6,5.7,5.3,5.8,6.7
+Benjamin Pavard,France,106,Attacking Wing-Back,5.9,6.4,5.2,6.1,5.5
+Quentin Merlin,Nantes,108,Defensive Specialist,5.6,5.9,5.4,5.8,6.4
+Tajon Buchanan,Canada,106,Progressive Playmaker,6.2,5.2,5.2,6.3,6.2
+David Unsworth,Everton,44,Defensive Specialist,5.6,5.4,5.9,5.4,6.8
+Antoine Mendy,OGC Nice,235,Defensive Specialist,6.0,5.5,6.0,5.5,6.0
+Aaron Hughes,Newcastle United,44,Attacking Wing-Back,5.6,6.0,5.7,5.9,5.8
+Sébastien Corchia,Nantes,108,Attacking Wing-Back,5.6,5.9,5.8,5.7,5.9
+Warren Kamanzi,Toulouse,235,Attacking Wing-Back,5.9,6.3,5.5,5.5,5.7
+Joakim Mæhle,Denmark,282,Progressive Playmaker,6.2,6.0,5.2,5.8,5.7
+Pablo Estífer Armero,Udinese,27,Defensive Specialist,5.7,5.7,4.7,6.0,6.8
+Ezequiel Muñoz,Genoa,27,Complete Fullback,5.6,5.9,6.4,5.9,5.1
+Issa Kabore,Marseille,235,Complete Fullback,5.5,5.9,6.3,5.5,5.7
+Colin Cooper,Middlesbrough,44,Defensive Specialist,5.7,5.8,5.8,5.5,6.0
+Amine Adli,Bayer Leverkusen,281,Defensive Specialist,5.6,5.4,5.4,6.1,6.3
+Ian Maatsen,Borussia Dortmund,281,Complete Fullback,5.9,5.4,6.6,5.4,5.5
+Luke Young,Charlton Athletic,44,Defensive Specialist,5.6,5.5,6.0,5.5,6.2
+Davide Zappacosta,Torino,27,Complete Fullback,5.4,5.7,6.1,6.1,5.5
+Alberto Grassi,Atalanta,27,Attacking Wing-Back,5.5,6.2,5.5,6.7,4.8
+Yukhym Konoplya,Ukraine,282,Attacking Wing-Back,5.8,6.0,5.5,5.8,5.6
+Emerson Palmieri dos Santos,AS Roma,27,Progressive Playmaker,6.3,5.5,5.8,5.3,5.8
+Boris Živković,Portsmouth,44,Complete Fullback,5.8,5.7,5.8,5.5,5.8
+Colin Dagba,Paris Saint-Germain,108,Attacking Wing-Back,5.5,5.8,5.6,5.9,5.8
+Mickaël Alphonse,AC Ajaccio,235,Defensive Specialist,5.5,5.8,5.5,5.5,6.3
+Arthur Theate,Belgium,282,Attacking Wing-Back,5.9,6.0,5.4,5.8,5.4
+Ansgar Knauff,Eintracht Frankfurt,281,Defensive Specialist,5.6,5.4,5.4,5.7,6.4
+Federico Dimarco,Italy,282,Attacking Wing-Back,6.0,5.2,5.2,6.4,5.7
+Gabriel Alonso Suazo Urbina,Toulouse,235,Attacking Wing-Back,5.5,5.8,5.5,5.9,5.8
+Kévin Constant,Bologna,27,Attacking Wing-Back,5.9,6.3,4.7,6.3,5.2
+Paolo Sammarco,Frosinone,27,Attacking Wing-Back,5.6,5.9,5.6,6.0,5.3
+Danny Mills,Middlesbrough,44,Complete Fullback,5.7,5.4,6.0,5.8,5.5
+Oliver Kragl,Frosinone,27,Defensive Specialist,5.7,5.5,5.6,5.1,6.5
+Jan Vertonghen,Belgium,106,Progressive Playmaker,6.2,6.1,5.2,5.7,5.2
+Caio Henrique Oliveira Silva,AS Monaco,108,Defensive Specialist,5.7,5.4,5.4,5.9,6.0
+Simone Missiroli,Sassuolo,27,Attacking Wing-Back,5.5,5.6,5.3,6.2,5.8
+Álvaro Odriozola Arzallus,Real Madrid,90,Complete Fullback,5.7,5.7,5.9,5.5,5.6
+Olivier Bernard,Newcastle United,44,Attacking Wing-Back,5.8,6.0,5.8,5.5,5.3
+Carlos Clerc Martínez,Levante UD,42,Defensive Specialist,5.6,5.3,6.1,5.4,5.9
+João Victor da Silva Marcelino,Nantes,235,Attacking Wing-Back,5.5,5.9,5.5,5.9,5.5
+DeAndre Yedlin,United States,106,Attacking Wing-Back,5.5,5.6,5.6,5.8,5.8
+David Doudera,Czech Republic,282,Progressive Playmaker,6.1,5.2,5.8,5.5,5.7
+Stuart Parnaby,Middlesbrough,44,Attacking Wing-Back,5.6,5.8,5.4,5.5,6.0
+Amankwaa Akurugu,Getafe,90,Attacking Wing-Back,5.7,6.0,5.4,5.5,5.7
+Bruno da Silva Peres,Torino,27,Defensive Specialist,5.5,5.5,5.9,5.4,6.0
+Andrei Burcă Andonie,Romania,282,Progressive Playmaker,6.0,5.8,5.2,5.5,5.7
+Chul Hong,South Korea,106,Attacking Wing-Back,5.6,5.9,5.2,5.8,5.7
+El Chadaille Bitshiabu,Paris Saint-Germain,235,Attacking Wing-Back,5.5,5.8,5.5,5.8,5.6
+Andrea Barzagli,Juventus,27,Complete Fullback,5.5,5.5,6.7,5.6,4.9
+Nicolò Cherubin,Atalanta,27,Progressive Playmaker,5.9,5.6,5.6,5.5,5.5
+Federico Bernardeschi,Fiorentina,27,Attacking Wing-Back,5.7,5.7,5.3,5.5,5.9
+Anthony Rouault,VfB Stuttgart,281,Attacking Wing-Back,5.5,5.7,5.4,5.9,5.5
+Chris Baird,Southampton,44,Complete Fullback,5.3,5.3,6.3,5.3,5.8
+Alessio Romagnoli,AC Milan,27,Complete Fullback,5.7,5.2,6.2,5.4,5.4
+Richie Laryea,Canada,106,Defensive Specialist,5.8,5.2,5.7,5.3,5.9
+Cristian Eduardo Zapata Valencia,AC Milan,27,Complete Fullback,5.4,5.5,6.5,5.6,4.9
+Perparim Hetemaj,Chievo,27,Complete Fullback,5.7,5.4,6.1,5.1,5.6
+Marnon Busch,FC Heidenheim,281,Complete Fullback,5.4,5.6,5.9,5.4,5.6
+Abdelhamid Sabiri,Morocco,106,Defensive Specialist,5.4,5.2,5.2,5.7,6.3
+Carlos Soler Barragán,Paris Saint-Germain,235,Attacking Wing-Back,5.5,5.5,5.5,5.5,5.7
+Franco Damián Vázquez,Sevilla,4,Complete Fullback,5.4,5.4,5.8,5.7,5.4
+Rasmus Nissen Kristensen,Denmark,106,Attacking Wing-Back,5.5,5.7,5.2,5.7,5.6
+Massadio Haïdara,Lens,235,Attacking Wing-Back,5.5,5.5,5.5,5.5,5.7
+Emil Hallfreðsson,Hellas Verona,27,Defensive Specialist,5.7,5.0,5.5,5.3,6.1
+Carlos Neva Tey,Granada,90,Progressive Playmaker,5.7,5.4,5.4,5.4,5.7
+Felipe Dias da Silva dal Belo,Udinese,27,Attacking Wing-Back,5.6,5.5,5.5,5.5,5.5
+Christophe Hérelle,Stade Brestois,235,Attacking Wing-Back,5.5,5.5,5.5,5.5,5.6
+Gabriel Iván Mercado,Sevilla,4,Complete Fullback,5.5,5.4,5.9,5.4,5.4
+Salomon Junior Sambia,Montpellier,108,Attacking Wing-Back,5.4,5.6,5.4,5.6,5.6
+David Ferreiro Quiroga,Huesca,90,Attacking Wing-Back,5.4,5.5,5.4,5.6,5.7
+Álvaro Borja Morata Martín,Atlético Madrid,4,Complete Fullback,5.4,5.4,5.8,5.4,5.5
+Juan Carlos Real Ruiz,Huesca,90,Defensive Specialist,5.4,5.4,5.6,5.4,5.7
+Nathan Tella,Bayer Leverkusen,281,Defensive Specialist,5.4,5.4,5.4,5.4,5.9
+Daniel Wass,Valencia,42,Defensive Specialist,5.5,5.3,5.3,5.5,5.9
+Jordan Lotomba,OGC Nice,108,Attacking Wing-Back,5.4,5.6,5.4,5.6,5.4
+Ibrahim Amadou,Sevilla,4,Attacking Wing-Back,5.4,5.7,5.4,5.4,5.5
+Pol Mikel Lirola Kosok,Marseille,108,Complete Fullback,5.4,5.4,5.7,5.4,5.5
+Jesús Vallejo Lázaro,Granada,90,Defensive Specialist,5.5,5.4,5.4,5.4,5.7
+Domagoj Bradarić,Lille,108,Defensive Specialist,5.5,5.4,5.4,5.4,5.7
+Felix Passlack,Bochum,281,Attacking Wing-Back,5.4,5.4,5.5,5.5,5.6
+Fran Karačić,Australia,106,Defensive Specialist,5.3,5.4,5.5,5.5,5.7
+Ivaylo Chochev,Palermo,27,Complete Fullback,5.6,5.2,5.7,5.5,5.3
+Alexander Hartmann Bah,Denmark,106,Defensive Specialist,5.5,5.2,5.6,5.2,5.7
+Benno Schmitz,FC Köln,281,Complete Fullback,5.4,5.4,5.6,5.4,5.4
+Vratislav Greško,Blackburn Rovers,44,Defensive Specialist,5.3,5.4,5.4,5.3,5.8
+Ambroise Oyongo Bitolo,Montpellier,108,Attacking Wing-Back,5.4,5.4,5.4,5.4,5.5
+Martin Braithwaite Christensen,Barcelona,90,Attacking Wing-Back,5.4,5.4,5.5,5.4,5.4
+Adam Obert,Slovakia,282,Attacking Wing-Back,5.4,5.5,5.4,5.5,5.3
+Riyadh Sharahili,Saudi Arabia,106,Progressive Playmaker,5.7,5.2,5.2,5.2,5.8
+Denis Odoi,Ghana,106,Attacking Wing-Back,5.3,5.6,5.3,5.6,5.2
+Luca Jannis Kilian,FC Köln,281,Attacking Wing-Back,5.4,5.4,5.4,5.4,5.4
+Lucas Calodat,Saint-Étienne,108,Attacking Wing-Back,5.4,5.4,5.4,5.4,5.4
+Lukas Ullrich,Borussia Mönchengladbach,281,Attacking Wing-Back,5.4,5.4,5.4,5.4,5.4
+Daniele Rugani,Juventus,27,Complete Fullback,5.7,5.2,5.9,5.2,5.0
+Zeno Debast,Belgium,282,Attacking Wing-Back,5.3,5.5,5.3,5.4,5.5
+Íñigo Lekue Martínez,Athletic Club,90,Attacking Wing-Back,5.4,5.4,5.4,5.4,5.4
+Lazaros Christodoulopoulos,Sampdoria,27,Attacking Wing-Back,5.3,5.7,4.7,5.3,6.0
+Robert Skov,Denmark,106,Defensive Specialist,5.4,5.2,5.2,5.4,5.7
+Victor Bernth Kristansen,Denmark,282,Complete Fullback,5.3,5.3,5.6,5.3,5.3
+Pascal Cygan,Arsenal,44,Progressive Playmaker,5.6,5.3,5.3,5.3,5.3
+Trent Alexander-Arnold,England,106,Attacking Wing-Back,5.4,5.4,5.2,5.5,5.3
+Artur Jędrzejczyk,Poland,106,Attacking Wing-Back,5.3,5.4,5.2,5.5,5.3
+Carlos Manuel Martínez Castro,Costa Rica,106,Complete Fullback,5.5,5.2,5.6,5.2,5.2
+Cesare Bovo,Torino,27,Attacking Wing-Back,5.5,5.3,4.7,5.6,5.6
+Daniele Croce,Empoli,27,Complete Fullback,5.1,5.4,5.5,5.3,5.3
+Abolfazl Jalali,Iran,106,Attacking Wing-Back,5.4,5.3,5.2,5.3,5.4
+Kevin Nahin Álvarez Campos,Mexico,106,Attacking Wing-Back,5.2,5.3,5.2,5.5,5.3
+Raúl García Carnero,Real Valladolid,42,Attacking Wing-Back,5.3,5.3,5.3,5.3,5.3
+Danilo Fernando Avelar,Torino,27,Defensive Specialist,5.0,5.3,5.5,5.0,5.7
+Dino Baggio,Blackburn Rovers,44,Attacking Wing-Back,5.3,5.3,5.3,5.3,5.3
+Alessandro Longhi,Sassuolo,27,Attacking Wing-Back,5.6,5.6,4.7,5.5,5.1
+Andrea Cambiaso,Italy,282,Attacking Wing-Back,5.2,5.4,5.3,5.3,5.3
+Luca Siligardi,Hellas Verona,27,Complete Fullback,4.9,5.1,5.8,5.0,5.6
+Vasile Mogoș,Romania,282,Progressive Playmaker,5.5,5.2,5.2,5.2,5.3
+Gleison Bremer Silva Nascimento,Brazil,106,Attacking Wing-Back,5.3,5.5,5.2,5.2,5.2
+Emiliano Moretti,Torino,27,Attacking Wing-Back,5.7,5.1,4.7,5.8,5.0
+Nico Schlotterbeck,Germany,106,Attacking Wing-Back,5.2,5.3,5.2,5.3,5.3
+Shaquell Moore,United States,106,Attacking Wing-Back,5.2,5.2,5.3,5.3,5.2
+Fodé Ballo Touré,Senegal,106,Attacking Wing-Back,5.2,5.4,5.2,5.2,5.2
+Deian Cristian Sorescu,Romania,282,Attacking Wing-Back,5.2,5.3,5.2,5.2,5.2
+Luka Lochoshvili,Georgia,282,Attacking Wing-Back,5.3,5.2,5.2,5.2,5.2
+Eray Ervin Cömert,Switzerland,106,Attacking Wing-Back,5.2,5.2,5.2,5.3,5.2
+Matías Nicolás Viña Susperreguy,Uruguay,106,Attacking Wing-Back,5.2,5.2,5.3,5.2,5.2
+Lucas Hernández Pi,France,106,Attacking Wing-Back,5.2,5.2,5.2,5.2,5.2
+Fabian Frei,Switzerland,106,Attacking Wing-Back,5.2,5.2,5.2,5.2,5.2
+Issa Cissokho,Genoa,27,Attacking Wing-Back,5.0,5.2,4.7,5.5,5.6
+Jordan Morris,United States,106,Attacking Wing-Back,5.2,5.2,5.2,5.2,5.2
+Joshua Zirkzee,Netherlands,282,Attacking Wing-Back,5.2,5.2,5.2,5.2,5.2
+Norbert Gyömbér,AS Roma,27,Attacking Wing-Back,5.1,5.4,5.1,5.1,5.1
+Juan Camilo Zúñiga Mosquera,Bologna,27,Attacking Wing-Back,5.1,5.4,4.9,5.3,5.1
+Marios Oikonomou,Bologna,27,Attacking Wing-Back,4.9,5.0,5.1,5.2,5.1
+Juan Guillermo Cuadrado Bello,Juventus,27,Defensive Specialist,4.8,4.8,5.5,4.8,5.4
+Rafael Tolói,Atalanta,27,Attacking Wing-Back,5.1,5.3,4.9,5.0,4.8
+Filippo Costa,Chievo,27,Complete Fullback,5.0,4.7,5.4,4.9,5.1
+Blerim Džemaili,Genoa,27,Defensive Specialist,4.9,4.9,4.7,5.1,5.5
+Wallace Oliveira dos Santos,Carpi,27,Complete Fullback,4.7,4.7,5.3,4.9,5.1
+Luca Paganini,Frosinone,27,Attacking Wing-Back,4.9,5.1,4.7,5.3,4.7
+Filip Helander,Hellas Verona,27,Attacking Wing-Back,5.1,5.0,4.7,4.9,5.0
+Modibo Diakité,Sampdoria,27,Progressive Playmaker,5.5,4.7,4.7,4.7,4.8
+Vasyl Pryyma,Frosinone,27,Defensive Specialist,4.8,4.7,4.7,4.7,5.3
+Maurício dos Santos Nascimento,Lazio,27,Complete Fullback,4.7,4.8,5.2,4.7,4.7
+Claud Adjapong,Sassuolo,27,Attacking Wing-Back,4.7,5.0,4.9,4.7,4.7
+Emil Krafth,Bologna,27,Attacking Wing-Back,4.7,4.8,4.8,4.9,4.7
+Luca Rizzo,Bologna,27,Attacking Wing-Back,4.7,4.8,4.9,4.7,4.7
+Paolo Cannavaro,Sassuolo,27,Attacking Wing-Back,4.8,4.7,4.7,4.8,4.7
+Marcelo Alejandro Estigarribia Balmori,Atalanta,27,Attacking Wing-Back,4.7,4.7,4.7,4.7,4.9
+Marco D''Alessandro,Atalanta,27,Attacking Wing-Back,4.7,4.7,4.7,4.7,4.9
+Aleksandar Tonev,Frosinone,27,Attacking Wing-Back,4.7,4.7,4.7,4.7,4.7
+Filippo Falco,Bologna,27,Attacking Wing-Back,4.7,4.7,4.7,4.7,4.7
